@@ -219,7 +219,7 @@
 document.getElementById("inputBatch").innerHTML = options;
 </script>
   <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5qWSDiuxPZ29WGjrNJNBp9YOVGoZqFZM&callback=initMap">
+    src="">
     </script>
 
   
